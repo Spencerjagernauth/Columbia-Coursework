@@ -72,7 +72,13 @@ aside {
 aside h2 {
   font-size: 150%;
 }
-
+#links{
+  display: none;
+  
+}
+.resources:hover #links{
+  display: block; 
+}
 input, button {
   width: 100%;
   margin: 2% 0;
