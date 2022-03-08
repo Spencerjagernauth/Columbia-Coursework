@@ -6,7 +6,7 @@ Work with a partner to implement the following user story:
 
 ## Acceptance Criteria
 
-* It is done when the names of five classmates are stored in a single variable named `students`.
+* It is done when the names of five classmates are stored in a single variable named `students`. 
 
 * It is done when the total number of elements in the `students` array is logged to the console.
 
